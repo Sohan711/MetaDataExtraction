@@ -9,7 +9,6 @@ pyPDF2
 mutagen
 tinytag
 docx2txt
-python docx
 os
 PIL 
 datetime
