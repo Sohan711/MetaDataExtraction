@@ -14,7 +14,7 @@ from datetime import datetime
 # opening file
 # for images
 from PIL import Image
-import exifread
+
 # for audio
 import mutagen
 # for pdf
