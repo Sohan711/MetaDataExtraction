@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 pillow
-exitfred
 seaborn
 matplotlib
 pyPDF2
