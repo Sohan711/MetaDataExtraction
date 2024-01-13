@@ -5,7 +5,4 @@ pillow
 seaborn
 matplotlib
 pyPDF2
-docx2txt
-os
-PIL 
-datetime
+
